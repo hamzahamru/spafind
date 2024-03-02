@@ -1,4 +1,4 @@
-name: "Spafind Package to npmjs"
+name: "Spafind Package"
 on: push
 jobs:
   build:
