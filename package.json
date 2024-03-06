@@ -4,7 +4,7 @@
   "dependencies": {
     "node-fetch": "^2.6.0",
     "@hamzahamru/autofill-typeform": "^1.0.2",
-    "@hamzahamru/auto-translate": "^1.0.0",
+    "@hamzahamru/auto-translate": "^1.0.0"
   },
   "description": "spafinder checker",
   "main": "index.js",
