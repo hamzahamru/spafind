@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 const autofill = require('@hamzahamru/autofill-typeform');
-
+const translate = require('@hamzahamru/auto-translate');
 const getDetail = (link) => new Promise ((resolve, reject) => {
     fetch(`${link}`, {
     method: 'GET',
