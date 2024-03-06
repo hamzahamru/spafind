@@ -1,9 +1,10 @@
 {
   "name": "@hamzahamru/spafind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "node-fetch": "^2.6.0",
-    "@hamzahamru/autofill-typeform": "^1.0.2"
+    "@hamzahamru/autofill-typeform": "^1.0.2",
+    "@hamzahamru/auto-translate": "^1.0.0",
   },
   "description": "spafinder checker",
   "main": "index.js",
